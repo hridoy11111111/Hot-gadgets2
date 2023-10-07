@@ -1,0 +1,28 @@
+.carousel-indicators [data-bs-target]{
+    height: 8px;
+    background-color: #ffc021;
+    border: 0;
+    border-radius: 10px;
+}
+.carousel-indicators .active{
+    width: 60px;
+}
+.carousel-indicators {
+    position: absolute;
+    bottom: -50px;
+}
+.border{
+    border: 0;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.categories span{
+    width: 9rem;
+    height: 5px;
+    background-color: #ffc021;
+    display: inline-block;
+    border-radius: 10px;
+}
+footer li a{
+    color: rgb(42, 196, 235)
+}
+ 
